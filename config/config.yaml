@@ -1,0 +1,8 @@
+artifacts_roots: artifacts_roots
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/16TDtatAhzVBtROTjU_GTpia0a3BzOl94/view?usp=share_link
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
